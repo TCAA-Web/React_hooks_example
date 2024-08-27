@@ -1,0 +1,25 @@
+.signUpStyle {
+  width: 100%;
+  display: grid;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+  label {
+    font-size: 1.1rem;
+    width: 80vw;
+    input {
+      height: 50px;
+      width: 30vw;
+      font-size: 1.2rem;
+    }
+  }
+  button {
+    width: 30vw;
+    height: 40px;
+    margin-top: 16px;
+    justify-self: center;
+  }
+}
